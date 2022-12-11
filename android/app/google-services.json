@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688286022436",
+    "project_id": "ricardoapp-ec7ff",
+    "storage_bucket": "ricardoapp-ec7ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688286022436:android:6ad2857d8dfa44195711b1",
+        "android_client_info": {
+          "package_name": "com.example.ricardo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688286022436-0961c11pe5d16d228jbu6msga2l47s0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsayg7VEtOUmIVzqkA9nLg3hZ9yWwtHNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688286022436-0961c11pe5d16d228jbu6msga2l47s0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>688286022436-443vl3srioat9n6ag387jf7tv6r9pqhb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.688286022436-443vl3srioat9n6ag387jf7tv6r9pqhb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYzJCgOI84na_f9YU-pVtwTjcKHbZuTVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>688286022436</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ricardoApp</string>
+	<key>PROJECT_ID</key>
+	<string>ricardoapp-ec7ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ricardoapp-ec7ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:688286022436:ios:65dbb9917ddec8215711b1</string>
+</dict>
+</plist>
